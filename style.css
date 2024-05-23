@@ -1,9 +1,15 @@
-.red{
-color: red;
+p {
+    background-color: rgb(130, 130, 194);
 }
-#firstdiv{
-    /* background-color: RED; */
+
+a {
+    background-color: rgb(245, 178, 178);
 }
-.bg-yellow{
-    background-color:yellow;
+
+div {
+    background-color: rgb(230, 230, 24);
+}
+
+span {
+    background-color: aqua;
 }
